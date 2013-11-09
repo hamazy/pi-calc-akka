@@ -1,0 +1,2 @@
+Originally appeared in http://doc.akka.io/docs/akka/1.1.2/intro/getting-started-first-java.html[Getting Started Tutorial (Java)] of Akka 1.1.2.
+
